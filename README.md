@@ -78,8 +78,10 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Exein](https://exein.io) | [Career Page](https://jobs.exein.io) | Product | Optional | Direct | Security - Rust - eBPF - Linux - Kernel - Python - Machine Learning - TypeScript - React - Open Source - IoT
 [Fabrick](https://www.fabrick.com/) | [Career Page](https://www.fabrick.com/it/azienda/lavora-con-noi/) | B2B | Hybrid | - | Typescript - Java - React - React Native - OracleSQL
 [FACEIT](https://www.faceit.com/en) | [Career Page](https://corporate.faceit.com/available-jobs/) | Product | Full | Contract | React - Typescript - Go
-[Facile.it](https://www.facile.it/) | [Career Page](https://inrecruiting.intervieweb.it/facileit/it/career#vacancies) | Product | Full | Direct | PHP - React - Node.js - TypeScript - Kubernetes
+[Facile.it](https://www.facile.it/) | [Career Page](https://inrecruiting.intervieweb.it/facileit/it/career#vacancies) | Product | Hybrid | Direct | PHP - React - Node.js - TypeScript - Kubernetes
+[Fiscozen](https://www.fiscozen.it/) | [Career Page](https://www.linkedin.com/company/fiscozen/) | Product | Full | Direct | JavaScript - PostgresQL - Python - Vue
 [Flightradar24](https://flightradar24.com/) | [Career Page](https://careers.flightradar24.com/) | Product | - | - | C++ - Python - IoT - AWS - Terraform - Kubernetes - PHP - Vue.js
+[Flowe](https://www.flowe.com/) | [Career Page](https://www.linkedin.com/company/floweitalia/jobs/) | Product | Hybrid | Direct | Python - Databricks - Azure - .NET - C# - Kotlin - Swift
 [Flowing](https://flowing.it) | [Career Page](https://www.flowing.it/job-opportunity/) | Consulting | Full | Direct | AWS - PHP - TypeScript - Java - Kotlin - JS
 [FourTheorem](https://www.fourtheorem.com) | [Career Page](https://www.fourtheorem.com/careers) | Consulting | - | - | AWS - Cloud Computing - Node.js - Python
 [Gamindo](https://gamindo.com) | [Career Page](https://www.linkedin.com/company/gamindo/jobs/) | Product | Full | Direct | PHP - React - React Native - TypeScript - Vue.js - MySQL
@@ -88,6 +90,8 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [HACKERSGEN](https://hackersgen.com) | [Career Page](https://www.sorint.com/en/careers/) | Consulting | Full | Direct | Online Trainings - DevOps - Linux - FullStackDev - Cloud - CyberSec
 [Hastega](https://www.hastega.it/) | [Career Page](https://www.hastega.it/posizioni-aperte/) | Consulting | Optional | Direct | Angular - Laravel - Spring Boot - Android - iOS - AWS - GCP
 [Hasura](https://hasura.io/) | [Career Page](https://hasura.io/careers/) | Product | Full | Contract | Haskell - React - TypeScript
+[Heply](https://heply.it) | [Career Page](https://careers.heply.it) | B2B | Hybrid | Direct | PHP - Node - Vue.js - React - Angular - React Native - Docker - Kubernetes - Terraform
+[Heveloon](https://www.heveloon.co.uk/) | [Career Page](https://www.linkedin.com/company/heveloon-ltd) | Consulting | Full | Contract | React - Flutter - AWS - IoT - Swifth - Kotlin - Node.js - Solidity
 [Hinto®](https://www.hinto.com/) | [Career Page](https://www.hinto.com/en/join-us) | Consulting | - | - | AWS - Terraform - PHP - Symfony - Drupal - JS - TypeScript - React - Node.js
 [hlpy](https://hlpy.co) | [Career Page](https://www.linkedin.com/company/hlpy/jobs/) | Product | Full | Direct | Vue.js - Flutter - Python - PostgreSQL - GIS - Kubernetes - ElasticSearch - AWS - Terraform - Machine Learning
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | Product | - | - | AWS - Kubernetes - Terraform - Python - React
@@ -122,6 +126,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [OpenCity Labs](https://www.opencityitalia.it/) | [Career Page](https://opencityitalia.it/lavora-con-noi/) | Product | - | - | Open Source - PHP - Symfony - AWS - Docker - Go - Angular - Kafka - Python
 [OverIT](https://www.overit.it/) | [Career Page](https://www.overit.it/lavora-con-noi/) | Product | Optional | Direct | Android - AWS - C# - GIS technologies - Java - JavaScript - Python
 [PagoPA S.p.A.](https://www.pagopa.it/it/) | [Career Page](https://www.pagopa.it/it/lavora-con-noi) | Product | Optional | Direct | TypeScript - React - Scala - Node.js - JavaScript - Java - Terraform - Azure - Kubernetes
+[Palmabit](https://www.palmabit.com) | [Career Page](https://www.palmabit.com/it/work-with-us) | Consulting | Optional | Direct | Node.js - React Native - React - Next.js - TypeScript - Jest - GraphQL - Docker - Kubernetes - Netlify
 [Par-Tec](https://www.par-tec.it/) | [Career Page](https://www.par-tec.it/lavorare-in-par-tec/) | Consulting | Optional | Direct | Linux - Opensource - GCP - OpenStack - Terraform - Ansible - Kubernetes - Openshift - Cloud-native - DevOps - GitOps - Python - Go
 [Patchai](https://www.patchai.io/) | [Career Page](https://www.linkedin.com/company/ai-patch/jobs/) | Product | Full | Direct | AWS - Kubernetes - Go - Node.js - Flutter - Dart - Python - Terraform
 [Pinv](https://www.pinv.it) | [Career Page](https://pinv.it/contatti/) | Product | Full | Direct | Node.js - React - TypeScript
@@ -139,6 +144,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Searchmetrics](https://www.searchmetrics.com/) | [Career Page](https://www.searchmetrics.com/company-and-careers/) | B2B | Full | Contract | 
 [Serenis](https://www.serenis.it/) | [Career Page](https://join.com/companies/serenis/) | Product | Optional | Direct | Apollo GraphQL Federation - AWS - Docker - Jest - Kubernetes - NestJS - Node.js - React Native - React - TypeScript
 [ShippyPro](https://www.shippypro.com/) | [Career Page](https://www.shippypro.com/en/work-with-us/) | Product | - | - | PHP - Terraform
+[ShopFully](https://corporate.shopfully.com/) | [Career Page](https://corporate.shopfully.com/it/lavora-con-noi/) | Product | Full | Contract | PHP - React - React Native - Node.js - Docker - AWS - Serverless - MySQL
 [SORINT.lab](https://www.sorint.com/en/) | [Career Page](https://www.sorint.com/en/careers/) | Consulting | Full | Direct | FullStackDev - DevOps - AWS - GCP - Azure - Linux - Opensource - Kubernates - OpenShift - Automation - Oracle
 [SORINT.OSS](https://sorintoss.io/) | [Career Page](https://sorintoss.io/contact/) | Consulting | Full | Direct | Open Source development - Agola - Ercole - Stolon - SYNwall
 [SparkFabrik](https://www.sparkfabrik.com) | [Career Page](https://careers.sparkfabrik.com) | Consulting | Full | Direct | AWS - GCP - Alibaba Cloud - Kubernetes - Docker - Cloud-native - DevOps - GitOps - PHP - TypeScript - JS - Go - Drupal - Laravel - Symphony - Angular - React - React Native
@@ -179,6 +185,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [Empatica](https://www.empatica.com) | [Career Page](https://apply.workable.com/empatica/) | Full | Direct
 [Everli](https://it.everli.com/it) | [Career Page](https://it.everli.com/it/lavora-con-noi) | Full | Direct
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | - | -
+[Human Analytica](https://humananalytica.it) | [Career Page](https://www.linkedin.com/company/human-analytica/jobs) | Hybrid | Direct
 [Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | - | -
 [Superfluid Team](https://www.superfluidteam.com/) | [Career Page](https://www.superfluidteam.com/careers/) | - | -
 [Zendesk](https://www.zendesk.com) | [Career Page](https://jobs.zendesk.com/us/en) | Full | Direct
@@ -199,6 +206,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [Cloud Academy](https://www.cloudacademy.com) | [Career Page](https://jobs.cloudacademy.com) | Optional | -
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Full | -
 [Flowing](https://flowing.it) | [Career Page](https://www.flowing.it/job-opportunity/) | Full | Direct
+[Heply](https://heply.it) | [Career Page](https://careers.heply.it) | Hybrid | Direct
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | - | -
 [Immobiliare.it](https://labs.immobiliare.it/) | [Career Page](https://www.immobiliare.it/info/lavora-con-noi/?utm_source=GitHubAwesomeItaliaRemote) | Optional | Direct
 [Jagaad](https://jagaad.com) | [Career Page](https://jagaad.com/careers) | Full | Direct
